@@ -1,6 +1,6 @@
 ### Hi there. My name is Sushmita Palikhe. 👋
 I am a student of Computer Engineering. Currently I am learning from various online classes to sharpen my programming skills. 
-🔭 I’m currently working on my final year project 'Disease Predictor and Specialist Recommendor'
+🔭 
 <!--
 **Sushmi-pal/Sushmi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
