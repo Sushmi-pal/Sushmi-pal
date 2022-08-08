@@ -6,7 +6,8 @@
 </div>
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/sushmita-palikhe-b45638177/" ><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
+  <a href = "https://www.linkedin.com/in/sushmita-palikhe-b45638177/" ><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Portfolio-blue"/>
 </div>
 <!--
