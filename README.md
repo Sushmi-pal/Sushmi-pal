@@ -13,6 +13,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sushmi-pal&style=flat-square&color=blue" alt=""/>
   </div>
+  <div align="center">
+  Hello!!!
+  <img src="https://media.giphy.com/media/Wr8PrRVqnGOLE48FWk/giphy.gif" width="600" height="300"/>
+  </div>
+  - - -
 <!--
 **Sushmi-pal/Sushmi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
