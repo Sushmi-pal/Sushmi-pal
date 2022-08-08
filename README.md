@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/sushmita.palikhe.9/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
   <a href="https://sushmita85.gitlab.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-blue"/></a>
 </div>
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sushmi-pal&style=flat-square&color=blue" alt=""/>
   </div>
 <!--
