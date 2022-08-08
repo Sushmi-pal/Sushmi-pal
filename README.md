@@ -14,7 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=Sushmi-pal&style=flat-square&color=blue" alt=""/>
   </div>
   <div>
-  ### Full Stack Developer with adept self-learning skills having a profound interest in Web Technologies. 👋🔭 
+  Hello. I am Sushmita Palikhe!
+  
   </div>
   <div align="center">
   <img src="https://media.giphy.com/media/Wr8PrRVqnGOLE48FWk/giphy.gif" width="600" height="300"/>
@@ -26,6 +27,13 @@
   
   
   _ _ _
+  
+  
+  
+  
+  # About Me:
+  ### Full Stack Developer with adept self-learning skills having a profound interest in Web Technologies. 👋🔭 
+  ### Currently working as a Full Stack Developer in an Autoposter project using Django Framework.
   
   
   
