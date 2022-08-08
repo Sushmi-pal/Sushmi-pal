@@ -1,5 +1,5 @@
-### Full Stack Developer with adept self-learning skills having a profound interest in Web Technologies. 👋
-🔭 
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -13,11 +13,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sushmi-pal&style=flat-square&color=blue" alt=""/>
   </div>
+  <div>
+  ### Full Stack Developer with adept self-learning skills having a profound interest in Web Technologies. 👋🔭 
+  </div>
   <div align="center">
-  Hello!!!
   <img src="https://media.giphy.com/media/Wr8PrRVqnGOLE48FWk/giphy.gif" width="600" height="300"/>
   </div>
   - - -
+  _ _ _
 <!--
 **Sushmi-pal/Sushmi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
