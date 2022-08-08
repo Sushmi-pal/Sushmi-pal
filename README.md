@@ -17,9 +17,7 @@
   Hello. I am Sushmita Palikhe!
   
   </div>
-  <div align="center">
-  <img src="https://media.giphy.com/media/Wr8PrRVqnGOLE48FWk/giphy.gif" width="600" height="300"/>
-  </div>
+  
   
   
   
