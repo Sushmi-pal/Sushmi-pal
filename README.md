@@ -7,8 +7,8 @@
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/sushmita-palikhe-b45638177/" ><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portfolio-blue"/>
+  <a href="https://www.facebook.com/sushmita.palikhe.9/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
+  <a href="https://sushmita85.gitlab.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-blue"/></a>
 </div>
 <!--
 **Sushmi-pal/Sushmi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
