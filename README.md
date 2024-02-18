@@ -31,7 +31,7 @@
   
   # About Me:
   ### Full Stack Developer with adept self-learning skills having a profound interest in Web Technologies. 👋🔭 
-  ### Currently working as a Full Stack Developer in an Autoposter project using Django Framework.
+  
   
   
   
