@@ -7,6 +7,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sushmita+Palikhe!;" />
 </h1>
+<h3>Software Engineer | Machine Learning & Security Enthusiast </h3>
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/sushmita-palikhe-b45638177/" ><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/sushmita.palikhe.9/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
