@@ -5,7 +5,7 @@
   <img src="https://avatars.githubusercontent.com/u/52500491?s=400&u=6a539ef02781d8da214e2d8964cad78f08521b26&v=4" width="100"/>
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sushmita+Palikhe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+Namaste;+I'm+Sushmita+Palikhe!;" />
 </h1>
 <div align="center"> 
   <a href="mailto:sushmipalikhe97@gmail.com">
